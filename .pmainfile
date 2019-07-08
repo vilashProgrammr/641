@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"mainfile":"src/index.html","terminalcommand":"npm install && npm start"}
+=======
+{"mainfile":"src/app/actor/actor.component.html"}
+>>>>>>> 83a92ea273d1699f9c098941ef2b1d8dc8e946f6
